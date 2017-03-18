@@ -1,0 +1,5 @@
+w05-170317-22-PS-working lab work05 task
+w05-170317-22-PS-working lab work05 task
+w05-170317-23-LR-learning memory allocation and free
+w05-170318-07-PS-completing week05 work
+w05-170318-08-LR-learning pid, memory allocation, c syntax
